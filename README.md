@@ -24,7 +24,7 @@ To use this chatbot, you need to have the following installed:
 #### How to Use
 1. Run the chatbot script:
 
-`python chatbot.py`
+`python [filename].py`
 
 1. The chatbot will prompt you to select a database type (MySQL, Oracle, PostgreSQL, Snowflake, or MongoDB). Type the desired database type or type 'exit' to end the chat.
 2. If you selected a supported database type, the chatbot will prompt you to enter the necessary database credentials, such as username, password, host, etc. Enter the required details as prompted or type 'exit' to end the chat.
