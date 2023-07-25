@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore")
 
 
 def initialize_chat_agent(db_type, db_credentials=None):
-    os.environ['OPENAI_API_KEY'] = "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"
+    os.environ['OPENAI_API_KEY'] = ""
 
     if db_type == 'mysql':
         db_user = input("Enter the MySQL database user: ")
